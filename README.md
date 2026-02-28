@@ -42,7 +42,7 @@ AWS (EC2), Docker, Git, Power BI
 - Built SQL-based ETL pipeline to transform raw data into Bronze and Silver layers using PostgreSQL.
 - Designed star schema and implemented transformations for analytical reporting.
 
-### Sales Data Engineering Pipeline(PySpark implementation)
+### Sales Data Engineering Pipeline (PySpark implementation)
 [View Repository →](https://github.com/uranbileguka/sales_pyspark_project)
 - Built ETL pipeline in PySpark to transform raw data into Bronze and Silver layers.
 - Applied Spark DataFrame transformations, aggregations, joins, and window functions for analytical processing.
