@@ -38,6 +38,7 @@ AWS (EC2), Docker, Git, Power BI
 ## 🚀 Featured Projects
 
 ### Sales Data Engineering Pipeline (SQL & PySpark)
+[View Repository →](https://github.com/uranbileguka/sales_data_engineering_project)
 - Built Bronze → Silver ETL architecture  
 - Designed star schema (fact & dimension tables)  
 - Implemented SQL and PySpark transformations  
@@ -45,6 +46,7 @@ AWS (EC2), Docker, Git, Power BI
 - Loaded structured data into PostgreSQL for analytics  
 
 ### MediRisk – Drug Risk Assessment Platform
+[View Repository →](https://github.com/uranbileguka/sales_pyspark_project)
 - Ingested drug data from openFDA API  
 - Designed relational schema for drug-risk modeling  
 - Built backend data processing workflows  
