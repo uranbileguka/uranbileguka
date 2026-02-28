@@ -53,8 +53,7 @@ AWS (EC2), Docker, Git, Power BI
 - Designed relational schema for drug-risk modeling  
 - Built backend data processing workflows  
 - Structured datasets for analytical querying
-- 
----
+
 
 ## 🎯 Interests
 
