@@ -1,101 +1,63 @@
-<h1 align="center">Hi 👋 I'm Uranbileg Enkhjargal</h1>
-<h3 align="center">Software Engineer | Data Engineer | Backend & Cloud Systems</h3>
+# Hi, I'm Uranbileg 👋  
+**Data Engineer | Backend Systems | ETL & Analytics**
+
+📍 Worcester, MA  
+🎓 M.S. Computer Science – Clark University  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software and Data Engineer focused on building scalable backend systems,
-data pipelines, and cloud-based analytics platforms.
+I build data pipelines, backend systems, and analytics-ready platforms.
 
-I enjoy designing end-to-end systems — from data ingestion and transformation
-to API development and deployment. My goal is to build reliable,
-production-ready systems that turn data into intelligent applications.
-
-🎓 Computer Science Student  
-📍 Worcester, MA  
-🚀 Actively building data engineering & cloud-based projects  
+My focus areas:
+- ETL / ELT pipelines  
+- Star schema data modeling  
+- PostgreSQL & PySpark transformations  
+- API-based data ingestion  
+- Backend system design  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
-- Python
-- JavaScript
-- SQL
+### Languages
+SQL, Python (PySpark, Pandas), Java  
 
-### 🏗 Backend & Systems
-- Node.js
-- REST APIs
-- Express
-- Django
+### Data Engineering
+ETL Pipelines, Batch Processing, Data Warehousing, Star Schema Modeling, Data Quality  
 
-### 🗄 Databases & Warehousing
-- PostgreSQL
-- MySQL
-- Snowflake
-- Data Modeling (Star Schema, Fact/Dim)
+### Databases
+PostgreSQL, MySQL  
 
-### ☁ Cloud & Data Engineering
-- AWS (S3, Glue – learning)
-- Snowflake
-- ETL Pipeline Development
-- Data Cleaning & Transformation
-- Automation Scripts
-
-### 📊 Analytics & BI
-- Power BI
-- Tableau
+### Cloud & Tools
+AWS (EC2), Docker, Git, Power BI  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Rare Disease Management Web Application
-Full-stack application for managing rare disease data  
-→ Backend API + database design  
-→ Data modeling & system architecture  
-→ Scalable structure for future AI integration  
+### Sales Data Engineering Pipeline (SQL & PySpark)
+- Built Bronze → Silver ETL architecture  
+- Designed star schema (fact & dimension tables)  
+- Implemented SQL and PySpark transformations  
+- Applied Spark DataFrame operations and window functions  
+- Loaded structured data into PostgreSQL for analytics  
 
-### 🔹 End-to-End Data Pipeline Project
-Designed ingestion → transformation → warehouse workflow  
-→ Python ETL scripts  
-→ SQL transformations  
-→ Structured data warehouse model  
-
-### 🔹 Weather-Based Recommendation System
-Built a Node.js app integrating:
-→ OpenAI API  
-→ Weather API  
-→ Location services  
-→ Real-time recommendation logic  
+### MediRisk – Drug Risk Assessment Platform
+- Ingested drug data from openFDA API  
+- Designed relational schema for drug-risk modeling  
+- Built backend data processing workflows  
+- Structured datasets for analytical querying  
 
 ---
 
-## 🧠 Engineering Focus
+## 🎯 Interests
 
-✔ Backend Architecture  
-✔ Scalable Data Systems  
-✔ Cloud Data Platforms  
-✔ System Design  
-✔ Automation & Optimization  
+Data Engineering  
+Backend Systems  
+Cloud Data Platforms  
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
-## 📬 Connect With Me
-
-- LinkedIn: (add your link)
-- Email: (add your email)
-
----
-
-💡 Open to Software Engineering, Data Engineering, and Backend Internship/Co-op opportunities.
+📬 Open to Data Engineering & Backend Internship / Co-op opportunities.
