@@ -60,7 +60,7 @@ AWS (EC2), Docker, Git, Power BI
 Data Engineering  
 Backend Systems  
 Cloud Data Platforms  
-
+ERP systems
 ---
 
 📬 Open to Data Engineering & Backend Internship / Co-op opportunities.
